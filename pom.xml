@@ -39,7 +39,7 @@
   </parent>
 
   <artifactId>lastsuccessversioncolumn</artifactId>
-  <version>1.2-SNAPSHOT</version>
+  <version>1.2</version>
   <packaging>hpi</packaging>
 
   <name>Last Version Column</name>
@@ -54,6 +54,10 @@
   </licenses>
 
   <developers>
+    <developer>
+      <id>juergens73</id>
+      <name>Juergen Schranz</name>
+    </developer>
     <developer>
       <id>ajpurkiss</id>
       <name>Adam Purkiss</name>
